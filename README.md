@@ -28,6 +28,10 @@ Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/playlist?q=Y
 Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/playlistid?q=PLAYLIST ID` and store the JSON 
 
 ## Channel Search
-Soon. 
+
+> Get channel info
+
+Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/channel?q=CHANNEL NAME` and store the JSON 
+ 
 
 **Questions or problems, contact me on Discord** [Davi Patricio#1319](https://discord.com/users/704468807229505637) 
