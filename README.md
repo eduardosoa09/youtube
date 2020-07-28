@@ -25,3 +25,4 @@ Make a GET Request to URL `yt-scraper.eclipseapis.ga/api/v1/playlistid?q=PLAYLIS
 ## Channel Search
 Soon. 
 
+**Questions or problems, contact me on Discord** [Davi Patricio#1319](https://discord.com/users/704468807229505637) 
