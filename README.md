@@ -19,7 +19,7 @@ Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/videoid?q=VI
 > Get first playlist result
 Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/playlist?q=YOUR QUERY` and store the JSON 
 
-> Get playlist info by 
+> Get playlist info
 Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/playlistid?q=PLAYLIST ID` and store the JSON 
 
 ## Channel Search
