@@ -1,6 +1,8 @@
 # YouTube Scraper
 Search in YouTube without an API Key. 
+
 Base URL: `yt-scraper.eclipseapis.ga/`. 
+
 This API return JSON Responses. 
 
 ## Video Search
