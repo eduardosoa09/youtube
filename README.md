@@ -34,6 +34,4 @@ Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/playlistid?q
 Make a GET Request to URL `https://yt-scraper.eclipseapis.ga/api/v1/channel?q=CHANNEL NAME` and store the JSON 
  
 
-**Questions or problems, contact me on Discord** [Davi Patricio#1319](https://discord.com/users/704468807229505637) 
-
-or join [support server](https://discord.gg/RTdFUAH) 
+**Questions or problems, contact me on Discord** [Davi Patricio#1319](https://discord.com/users/704468807229505637) or join [support server](https://discord.gg/RTdFUAH) 
